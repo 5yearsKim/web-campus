@@ -1,0 +1,11 @@
+{
+  "api": { 
+    "invokeUrl": "",
+    "campusURL":"https://3eq8n8hqih.execute-api.ap-northeast-2.amazonaws.com/api"
+  },
+  "cognito": {
+    "REGION": "ap-northeast-2",
+    "USER_POOL_ID": "ap-northeast-2_iIwX9thGf",
+    "APP_CLIENT_ID": "5bkqnobm63m26vnc998phbmsb"
+  }
+}
